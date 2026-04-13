@@ -1,0 +1,610 @@
+{
+  "date": "2019-03-15",
+  "timestamp": "2026-04-13T11:03:06.463576",
+  "xs": {
+    "bac": [
+      {
+        "id": 30795,
+        "region": "bac",
+        "province": "Hải Phòng",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "4FA,8FA,15FA",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.281Z",
+        "updatedAt": "2026-02-11T04:44:04.281Z",
+        "prizes": [
+          {
+            "id": 272282,
+            "drawId": 30795,
+            "prizeKey": "DB",
+            "numbers": [
+              "40771"
+            ]
+          },
+          {
+            "id": 272283,
+            "drawId": 30795,
+            "prizeKey": "G1",
+            "numbers": [
+              "89617"
+            ]
+          },
+          {
+            "id": 272284,
+            "drawId": 30795,
+            "prizeKey": "G2",
+            "numbers": [
+              "58685",
+              "59275"
+            ]
+          },
+          {
+            "id": 272285,
+            "drawId": 30795,
+            "prizeKey": "G3",
+            "numbers": [
+              "32664",
+              "20626",
+              "11516",
+              "77826",
+              "62332",
+              "52831"
+            ]
+          },
+          {
+            "id": 272286,
+            "drawId": 30795,
+            "prizeKey": "G4",
+            "numbers": [
+              "8898",
+              "4520",
+              "8452",
+              "7809"
+            ]
+          },
+          {
+            "id": 272287,
+            "drawId": 30795,
+            "prizeKey": "G5",
+            "numbers": [
+              "2505",
+              "8217",
+              "1282",
+              "0789",
+              "6687",
+              "1288"
+            ]
+          },
+          {
+            "id": 272288,
+            "drawId": 30795,
+            "prizeKey": "G6",
+            "numbers": [
+              "329",
+              "366",
+              "771"
+            ]
+          },
+          {
+            "id": 272289,
+            "drawId": 30795,
+            "prizeKey": "G7",
+            "numbers": [
+              "49",
+              "42",
+              "99",
+              "63"
+            ]
+          }
+        ]
+      }
+    ],
+    "trung": [
+      {
+        "id": 30799,
+        "region": "trung",
+        "province": "Gia Lai",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "XSGL",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.290Z",
+        "updatedAt": "2026-02-15T01:30:45.194Z",
+        "prizes": [
+          {
+            "id": 272317,
+            "drawId": 30799,
+            "prizeKey": "DB",
+            "numbers": [
+              "235808"
+            ]
+          },
+          {
+            "id": 272318,
+            "drawId": 30799,
+            "prizeKey": "G1",
+            "numbers": [
+              "48301"
+            ]
+          },
+          {
+            "id": 272319,
+            "drawId": 30799,
+            "prizeKey": "G2",
+            "numbers": [
+              "17406"
+            ]
+          },
+          {
+            "id": 272320,
+            "drawId": 30799,
+            "prizeKey": "G3",
+            "numbers": [
+              "69599",
+              "75536"
+            ]
+          },
+          {
+            "id": 272321,
+            "drawId": 30799,
+            "prizeKey": "G4",
+            "numbers": [
+              "65610",
+              "14526",
+              "30634",
+              "16719",
+              "71789",
+              "16450",
+              "53617"
+            ]
+          },
+          {
+            "id": 272322,
+            "drawId": 30799,
+            "prizeKey": "G5",
+            "numbers": [
+              "6834"
+            ]
+          },
+          {
+            "id": 272323,
+            "drawId": 30799,
+            "prizeKey": "G6",
+            "numbers": [
+              "5741",
+              "1634",
+              "9751"
+            ]
+          },
+          {
+            "id": 272324,
+            "drawId": 30799,
+            "prizeKey": "G7",
+            "numbers": [
+              "941"
+            ]
+          },
+          {
+            "id": 272325,
+            "drawId": 30799,
+            "prizeKey": "G8",
+            "numbers": [
+              "36"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30800,
+        "region": "trung",
+        "province": "Ninh Thuận",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "XSNT",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.292Z",
+        "updatedAt": "2026-02-15T01:30:45.214Z",
+        "prizes": [
+          {
+            "id": 272326,
+            "drawId": 30800,
+            "prizeKey": "DB",
+            "numbers": [
+              "209263"
+            ]
+          },
+          {
+            "id": 272327,
+            "drawId": 30800,
+            "prizeKey": "G1",
+            "numbers": [
+              "17067"
+            ]
+          },
+          {
+            "id": 272328,
+            "drawId": 30800,
+            "prizeKey": "G2",
+            "numbers": [
+              "18641"
+            ]
+          },
+          {
+            "id": 272329,
+            "drawId": 30800,
+            "prizeKey": "G3",
+            "numbers": [
+              "37239",
+              "61213"
+            ]
+          },
+          {
+            "id": 272330,
+            "drawId": 30800,
+            "prizeKey": "G4",
+            "numbers": [
+              "29733",
+              "61950",
+              "19803",
+              "84118",
+              "65878",
+              "41343",
+              "53149"
+            ]
+          },
+          {
+            "id": 272331,
+            "drawId": 30800,
+            "prizeKey": "G5",
+            "numbers": [
+              "7278"
+            ]
+          },
+          {
+            "id": 272332,
+            "drawId": 30800,
+            "prizeKey": "G6",
+            "numbers": [
+              "9722",
+              "0204",
+              "4952"
+            ]
+          },
+          {
+            "id": 272333,
+            "drawId": 30800,
+            "prizeKey": "G7",
+            "numbers": [
+              "045"
+            ]
+          },
+          {
+            "id": 272334,
+            "drawId": 30800,
+            "prizeKey": "G8",
+            "numbers": [
+              "21"
+            ]
+          }
+        ]
+      }
+    ],
+    "nam": [
+      {
+        "id": 30796,
+        "region": "nam",
+        "province": "Vĩnh Long",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "40VL11",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.283Z",
+        "updatedAt": "2026-02-14T02:16:20.553Z",
+        "prizes": [
+          {
+            "id": 272290,
+            "drawId": 30796,
+            "prizeKey": "DB",
+            "numbers": [
+              "450835"
+            ]
+          },
+          {
+            "id": 272291,
+            "drawId": 30796,
+            "prizeKey": "G1",
+            "numbers": [
+              "71251"
+            ]
+          },
+          {
+            "id": 272292,
+            "drawId": 30796,
+            "prizeKey": "G2",
+            "numbers": [
+              "93792"
+            ]
+          },
+          {
+            "id": 272293,
+            "drawId": 30796,
+            "prizeKey": "G3",
+            "numbers": [
+              "80513",
+              "90663"
+            ]
+          },
+          {
+            "id": 272294,
+            "drawId": 30796,
+            "prizeKey": "G4",
+            "numbers": [
+              "99663",
+              "72365",
+              "94331",
+              "72530",
+              "32320",
+              "45303",
+              "40514"
+            ]
+          },
+          {
+            "id": 272295,
+            "drawId": 30796,
+            "prizeKey": "G5",
+            "numbers": [
+              "7267"
+            ]
+          },
+          {
+            "id": 272296,
+            "drawId": 30796,
+            "prizeKey": "G6",
+            "numbers": [
+              "4076",
+              "3438",
+              "4120"
+            ]
+          },
+          {
+            "id": 272297,
+            "drawId": 30796,
+            "prizeKey": "G7",
+            "numbers": [
+              "029"
+            ]
+          },
+          {
+            "id": 272298,
+            "drawId": 30796,
+            "prizeKey": "G8",
+            "numbers": [
+              "48"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30797,
+        "region": "nam",
+        "province": "Bình Dương",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "03KS11",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.286Z",
+        "updatedAt": "2026-02-14T02:16:20.554Z",
+        "prizes": [
+          {
+            "id": 272299,
+            "drawId": 30797,
+            "prizeKey": "DB",
+            "numbers": [
+              "445700"
+            ]
+          },
+          {
+            "id": 272300,
+            "drawId": 30797,
+            "prizeKey": "G1",
+            "numbers": [
+              "71533"
+            ]
+          },
+          {
+            "id": 272301,
+            "drawId": 30797,
+            "prizeKey": "G2",
+            "numbers": [
+              "01170"
+            ]
+          },
+          {
+            "id": 272302,
+            "drawId": 30797,
+            "prizeKey": "G3",
+            "numbers": [
+              "07393",
+              "44843"
+            ]
+          },
+          {
+            "id": 272303,
+            "drawId": 30797,
+            "prizeKey": "G4",
+            "numbers": [
+              "53335",
+              "89297",
+              "54368",
+              "27534",
+              "31586",
+              "78039",
+              "34287"
+            ]
+          },
+          {
+            "id": 272304,
+            "drawId": 30797,
+            "prizeKey": "G5",
+            "numbers": [
+              "5596"
+            ]
+          },
+          {
+            "id": 272305,
+            "drawId": 30797,
+            "prizeKey": "G6",
+            "numbers": [
+              "3724",
+              "2235",
+              "5548"
+            ]
+          },
+          {
+            "id": 272306,
+            "drawId": 30797,
+            "prizeKey": "G7",
+            "numbers": [
+              "056"
+            ]
+          },
+          {
+            "id": 272307,
+            "drawId": 30797,
+            "prizeKey": "G8",
+            "numbers": [
+              "96"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30798,
+        "region": "nam",
+        "province": "Trà Vinh",
+        "drawDate": "2019-03-15T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "28TV11",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:04.288Z",
+        "updatedAt": "2026-02-14T02:16:20.555Z",
+        "prizes": [
+          {
+            "id": 272308,
+            "drawId": 30798,
+            "prizeKey": "DB",
+            "numbers": [
+              "144220"
+            ]
+          },
+          {
+            "id": 272309,
+            "drawId": 30798,
+            "prizeKey": "G1",
+            "numbers": [
+              "75399"
+            ]
+          },
+          {
+            "id": 272310,
+            "drawId": 30798,
+            "prizeKey": "G2",
+            "numbers": [
+              "19513"
+            ]
+          },
+          {
+            "id": 272311,
+            "drawId": 30798,
+            "prizeKey": "G3",
+            "numbers": [
+              "96137",
+              "89534"
+            ]
+          },
+          {
+            "id": 272312,
+            "drawId": 30798,
+            "prizeKey": "G4",
+            "numbers": [
+              "67484",
+              "10097",
+              "09234",
+              "01928",
+              "58543",
+              "56268",
+              "05210"
+            ]
+          },
+          {
+            "id": 272313,
+            "drawId": 30798,
+            "prizeKey": "G5",
+            "numbers": [
+              "7217"
+            ]
+          },
+          {
+            "id": 272314,
+            "drawId": 30798,
+            "prizeKey": "G6",
+            "numbers": [
+              "8723",
+              "8806",
+              "3620"
+            ]
+          },
+          {
+            "id": 272315,
+            "drawId": 30798,
+            "prizeKey": "G7",
+            "numbers": [
+              "363"
+            ]
+          },
+          {
+            "id": 272316,
+            "drawId": 30798,
+            "prizeKey": "G8",
+            "numbers": [
+              "82"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "vietlott": {
+    "mega645": {
+      "id": 414,
+      "gameType": "mega645",
+      "drawCode": "00414",
+      "drawDate": "2019-03-15T00:00:00.000Z",
+      "numbers": [
+        5,
+        10,
+        15,
+        19,
+        38,
+        42
+      ],
+      "specialNum": null,
+      "jackpot1": "14180566000",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 0,
+        "first": 25,
+        "second": 870,
+        "third": 14640
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:41.603Z",
+      "updatedAt": "2026-02-16T08:38:54.024Z"
+    },
+    "power655": null,
+    "max3d": null,
+    "max3dpro": null,
+    "lotto535": null
+  }
+}
