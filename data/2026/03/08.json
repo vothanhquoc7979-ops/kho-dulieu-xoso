@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-08",
+  "timestamp": "2026-04-13T03:47:49.338934",
+  "xs": {
+    "bac": [],
+    "trung": [],
+    "nam": []
+  },
+  "vietlott": {
+    "mega645": {
+      "id": 5737,
+      "gameType": "mega645",
+      "drawCode": "1481",
+      "drawDate": "2026-03-08T00:00:00.000Z",
+      "numbers": [
+        6,
+        12,
+        13,
+        25,
+        31,
+        32
+      ],
+      "specialNum": null,
+      "jackpot1": "18851320000",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 0,
+        "first": 15,
+        "second": 1073,
+        "third": 18030
+      },
+      "isPublished": true,
+      "createdAt": "2026-03-08T11:27:07.584Z",
+      "updatedAt": "2026-03-08T11:37:09.704Z"
+    },
+    "power655": null,
+    "max3d": null,
+    "max3dpro": null,
+    "lotto535": [
+      {
+        "id": 5736,
+        "gameType": "lotto535_13h",
+        "drawCode": "505",
+        "drawDate": "2026-03-08T00:00:00.000Z",
+        "numbers": [
+          11,
+          23,
+          24,
+          26,
+          27
+        ],
+        "specialNum": "02",
+        "jackpot1": "7065275000",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 3,
+          "third": 48,
+          "fourth": 94,
+          "fifth": 1661,
+          "consolation": 8562
+        },
+        "isPublished": true,
+        "createdAt": "2026-03-08T06:05:16.590Z",
+        "updatedAt": "2026-03-08T06:53:00.635Z"
+      },
+      {
+        "id": 5738,
+        "gameType": "lotto535_21h",
+        "drawCode": "506",
+        "drawDate": "2026-03-08T00:00:00.000Z",
+        "numbers": [
+          20,
+          22,
+          25,
+          29,
+          31
+        ],
+        "specialNum": "12",
+        "jackpot1": "7281760000",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 5,
+          "third": 51,
+          "fourth": 156,
+          "fifth": 2116,
+          "consolation": 13139
+        },
+        "isPublished": true,
+        "createdAt": "2026-03-08T14:05:16.962Z",
+        "updatedAt": "2026-03-08T14:34:37.890Z"
+      }
+    ]
+  }
+}
