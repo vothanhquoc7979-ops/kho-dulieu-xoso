@@ -1,0 +1,221 @@
+{
+  "date": "2026-01-02",
+  "timestamp": "2026-04-13T07:16:45.198611",
+  "xs": {
+    "bac": [
+      {
+        "id": 46631,
+        "region": "bac",
+        "province": "Hải Phòng",
+        "drawDate": "2026-01-02T00:00:00.000Z",
+        "dayOfWeek": "Thứ 6",
+        "maDB": "14TQ,19TQ,12TQ,10TQ,2TQ,4TQ,1TQ15TQ",
+        "isPublished": true,
+        "createdAt": "2026-02-12T12:20:47.425Z",
+        "updatedAt": "2026-03-06T04:23:27.469Z",
+        "prizes": [
+          {
+            "id": 412346,
+            "drawId": 46631,
+            "prizeKey": "DB",
+            "numbers": [
+              "45748"
+            ]
+          },
+          {
+            "id": 412347,
+            "drawId": 46631,
+            "prizeKey": "G1",
+            "numbers": [
+              "11781"
+            ]
+          },
+          {
+            "id": 412348,
+            "drawId": 46631,
+            "prizeKey": "G2",
+            "numbers": [
+              "80531",
+              "23392"
+            ]
+          },
+          {
+            "id": 412349,
+            "drawId": 46631,
+            "prizeKey": "G3",
+            "numbers": [
+              "76928",
+              "84288",
+              "38636",
+              "47152",
+              "36104",
+              "66867"
+            ]
+          },
+          {
+            "id": 412350,
+            "drawId": 46631,
+            "prizeKey": "G4",
+            "numbers": [
+              "0981",
+              "5060",
+              "0292",
+              "2714"
+            ]
+          },
+          {
+            "id": 412351,
+            "drawId": 46631,
+            "prizeKey": "G5",
+            "numbers": [
+              "5289",
+              "9150",
+              "7983",
+              "5222",
+              "5023",
+              "9475"
+            ]
+          },
+          {
+            "id": 412352,
+            "drawId": 46631,
+            "prizeKey": "G6",
+            "numbers": [
+              "641",
+              "853",
+              "159"
+            ]
+          },
+          {
+            "id": 412353,
+            "drawId": 46631,
+            "prizeKey": "G7",
+            "numbers": [
+              "29",
+              "24",
+              "38",
+              "22"
+            ]
+          }
+        ]
+      }
+    ],
+    "trung": [],
+    "nam": []
+  },
+  "vietlott": {
+    "mega645": {
+      "id": 3811,
+      "gameType": "mega645",
+      "drawCode": "01453",
+      "drawDate": "2026-01-02T00:00:00.000Z",
+      "numbers": [
+        7,
+        18,
+        22,
+        32,
+        37,
+        38
+      ],
+      "specialNum": null,
+      "jackpot1": "13441549500",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 0,
+        "first": 12,
+        "second": 793,
+        "third": 13497
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-12T13:24:48.753Z",
+      "updatedAt": "2026-02-16T08:37:58.696Z"
+    },
+    "power655": null,
+    "max3d": {
+      "id": 3843,
+      "gameType": "max3d",
+      "drawCode": "01024",
+      "drawDate": "2026-01-02T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "344",
+          "808"
+        ],
+        "first": [
+          "454",
+          "463",
+          "611",
+          "632"
+        ],
+        "second": [
+          "948",
+          "946",
+          "203",
+          "918",
+          "124",
+          "943"
+        ],
+        "third": [
+          "156",
+          "008",
+          "534",
+          "724",
+          "223",
+          "315",
+          "603",
+          "679"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special_max3d": 15,
+        "special_max3d_plus": 0,
+        "first_max3d": 50,
+        "first_max3d_plus": 2,
+        "second_max3d": 51,
+        "second_max3d_plus": 6,
+        "third_max3d": 90,
+        "third_max3d_plus": 5,
+        "fourth": 35,
+        "fifth": 354,
+        "sixth": 2772
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-12T13:26:43.149Z",
+      "updatedAt": "2026-02-12T13:26:43.149Z"
+    },
+    "max3dpro": null,
+    "lotto535": [
+      {
+        "id": 3925,
+        "gameType": "lotto535_21h",
+        "drawCode": "00376",
+        "drawDate": "2026-01-02T00:00:00.000Z",
+        "numbers": [
+          3,
+          9,
+          10,
+          14,
+          25
+        ],
+        "specialNum": "06",
+        "jackpot1": "7238197500",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 9,
+          "third": 62,
+          "fourth": 224,
+          "fifth": 2148,
+          "consolation": 15627
+        },
+        "isPublished": true,
+        "createdAt": "2026-02-12T13:34:39.328Z",
+        "updatedAt": "2026-02-12T13:34:39.328Z"
+      }
+    ]
+  }
+}

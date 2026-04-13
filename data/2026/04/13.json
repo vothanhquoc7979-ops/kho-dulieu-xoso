@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T03:50:49.358285",
+  "timestamp": "2026-04-13T07:19:44.811908",
   "xs": {
     "bac": [],
     "trung": [],
@@ -11,6 +11,35 @@
     "power655": null,
     "max3d": null,
     "max3dpro": null,
-    "lotto535": null
+    "lotto535": [
+      {
+        "id": 5869,
+        "gameType": "lotto535_13h",
+        "drawCode": "577",
+        "drawDate": "2026-04-13T00:00:00.000Z",
+        "numbers": [
+          12,
+          15,
+          23,
+          26,
+          32
+        ],
+        "specialNum": "08",
+        "jackpot1": "8703965500",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 13,
+          "third": 74,
+          "fourth": 228,
+          "fifth": 1867,
+          "consolation": 14560
+        },
+        "isPublished": true,
+        "createdAt": "2026-04-13T06:03:22.166Z",
+        "updatedAt": "2026-04-13T06:03:22.166Z"
+      }
+    ]
   }
 }
