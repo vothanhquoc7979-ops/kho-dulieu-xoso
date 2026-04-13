@@ -1,0 +1,192 @@
+{
+  "date": "2021-08-18",
+  "timestamp": "2026-04-13T07:40:54.969695",
+  "xs": {
+    "bac": [
+      {
+        "id": 36181,
+        "region": "bac",
+        "province": "Bắc Ninh",
+        "drawDate": "2021-08-18T00:00:00.000Z",
+        "dayOfWeek": "Thứ 4",
+        "maDB": "1GU,4GU,6GU,9GU,11GU,14GU",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:16.878Z",
+        "updatedAt": "2026-02-11T04:44:16.878Z",
+        "prizes": [
+          {
+            "id": 319899,
+            "drawId": 36181,
+            "prizeKey": "DB",
+            "numbers": [
+              "10443"
+            ]
+          },
+          {
+            "id": 319900,
+            "drawId": 36181,
+            "prizeKey": "G1",
+            "numbers": [
+              "28874"
+            ]
+          },
+          {
+            "id": 319901,
+            "drawId": 36181,
+            "prizeKey": "G2",
+            "numbers": [
+              "41611",
+              "34539"
+            ]
+          },
+          {
+            "id": 319902,
+            "drawId": 36181,
+            "prizeKey": "G3",
+            "numbers": [
+              "18912",
+              "03584",
+              "53836",
+              "31787",
+              "15200",
+              "63243"
+            ]
+          },
+          {
+            "id": 319903,
+            "drawId": 36181,
+            "prizeKey": "G4",
+            "numbers": [
+              "3400",
+              "6373",
+              "9768",
+              "6486"
+            ]
+          },
+          {
+            "id": 319904,
+            "drawId": 36181,
+            "prizeKey": "G5",
+            "numbers": [
+              "1120",
+              "8593",
+              "9502",
+              "2059",
+              "9473",
+              "2482"
+            ]
+          },
+          {
+            "id": 319905,
+            "drawId": 36181,
+            "prizeKey": "G6",
+            "numbers": [
+              "626",
+              "057",
+              "366"
+            ]
+          },
+          {
+            "id": 319906,
+            "drawId": 36181,
+            "prizeKey": "G7",
+            "numbers": [
+              "59",
+              "14",
+              "68",
+              "02"
+            ]
+          }
+        ]
+      }
+    ],
+    "trung": [],
+    "nam": []
+  },
+  "vietlott": {
+    "mega645": {
+      "id": 772,
+      "gameType": "mega645",
+      "drawCode": "00772",
+      "drawDate": "2021-08-18T00:00:00.000Z",
+      "numbers": [
+        10,
+        16,
+        19,
+        27,
+        28,
+        36
+      ],
+      "specialNum": null,
+      "jackpot1": "17869440500",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 0,
+        "first": 19,
+        "second": 653,
+        "third": 9973
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:42.296Z",
+      "updatedAt": "2026-02-16T08:38:54.372Z"
+    },
+    "power655": null,
+    "max3d": {
+      "id": 3076,
+      "gameType": "max3d",
+      "drawCode": "00343",
+      "drawDate": "2021-08-18T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "027",
+          "389"
+        ],
+        "first": [
+          "998",
+          "973",
+          "243",
+          "136"
+        ],
+        "second": [
+          "484",
+          "527",
+          "324",
+          "859",
+          "428",
+          "499"
+        ],
+        "third": [
+          "377",
+          "875",
+          "177",
+          "646",
+          "120",
+          "175",
+          "513",
+          "601"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special_max3d": 20,
+        "special_max3d_plus": 0,
+        "first_max3d": 25,
+        "first_max3d_plus": 0,
+        "second_max3d": 25,
+        "second_max3d_plus": 0,
+        "third_max3d": 59,
+        "third_max3d_plus": 1,
+        "fourth": 3,
+        "fifth": 124,
+        "sixth": 963
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:46.838Z",
+      "updatedAt": "2026-02-16T08:29:48.352Z"
+    },
+    "max3dpro": null,
+    "lotto535": null
+  }
+}
