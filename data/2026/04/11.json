@@ -1,0 +1,154 @@
+{
+  "date": "2026-04-11",
+  "timestamp": "2026-04-13T03:37:44.389842",
+  "xs": {
+    "bac": [],
+    "trung": [],
+    "nam": []
+  },
+  "vietlott": {
+    "mega645": null,
+    "power655": {
+      "id": 5863,
+      "gameType": "power655",
+      "drawCode": "1331",
+      "drawDate": "2026-04-11T00:00:00.000Z",
+      "numbers": [
+        13,
+        26,
+        29,
+        38,
+        49,
+        53
+      ],
+      "specialNum": "07",
+      "jackpot1": "81069972600",
+      "jackpot2": "3407823450",
+      "winnersData": {
+        "jackpot1": 0,
+        "jackpot2": 0,
+        "first": 5,
+        "second": 1004,
+        "third": 19337
+      },
+      "isPublished": true,
+      "createdAt": "2026-04-11T11:28:33.050Z",
+      "updatedAt": "2026-04-11T11:58:34.372Z"
+    },
+    "max3d": null,
+    "max3dpro": {
+      "id": 5864,
+      "gameType": "max3dpro",
+      "drawCode": "712",
+      "drawDate": "2026-04-11T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "047",
+          "771"
+        ],
+        "first": [
+          "751",
+          "067",
+          "010",
+          "001"
+        ],
+        "second": [
+          "457",
+          "673",
+          "181",
+          "971",
+          "540",
+          "900"
+        ],
+        "third": [
+          "366",
+          "923",
+          "867",
+          "045",
+          "605",
+          "246",
+          "405",
+          "170"
+        ],
+        "special_sub": [
+          "771",
+          "047"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special": 0,
+        "first": 4,
+        "second": 10,
+        "third": 7,
+        "fourth": 43,
+        "fifth": 500,
+        "sixth": 4907,
+        "special_sub": 0
+      },
+      "isPublished": true,
+      "createdAt": "2026-04-11T11:28:33.319Z",
+      "updatedAt": "2026-04-11T11:43:33.452Z"
+    },
+    "lotto535": [
+      {
+        "id": 5862,
+        "gameType": "lotto535_13h",
+        "drawCode": "573",
+        "drawDate": "2026-04-11T00:00:00.000Z",
+        "numbers": [
+          7,
+          13,
+          15,
+          19,
+          32
+        ],
+        "specialNum": "09",
+        "jackpot1": "7423970000",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 8,
+          "third": 53,
+          "fourth": 177,
+          "fifth": 1570,
+          "consolation": 14122
+        },
+        "isPublished": true,
+        "createdAt": "2026-04-11T06:01:33.834Z",
+        "updatedAt": "2026-04-11T06:02:37.401Z"
+      },
+      {
+        "id": 5865,
+        "gameType": "lotto535_21h",
+        "drawCode": "00574",
+        "drawDate": "2026-04-11T00:00:00.000Z",
+        "numbers": [
+          3,
+          6,
+          8,
+          20,
+          35
+        ],
+        "specialNum": "06",
+        "jackpot1": "7542970000",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 11,
+          "third": 82,
+          "fourth": 175,
+          "fifth": 1845,
+          "consolation": 13312
+        },
+        "isPublished": true,
+        "createdAt": "2026-04-11T14:05:22.816Z",
+        "updatedAt": "2026-04-11T14:05:22.816Z"
+      }
+    ]
+  }
+}
