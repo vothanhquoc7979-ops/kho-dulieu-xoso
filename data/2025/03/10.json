@@ -1,6 +1,6 @@
 {
   "date": "2025-03-10",
-  "timestamp": "2026-04-13T07:08:02.198319",
+  "timestamp": "2026-04-20T06:14:03.875232",
   "xs": {
     "bac": [
       {
@@ -578,7 +578,61 @@
   "vietlott": {
     "mega645": null,
     "power655": null,
-    "max3d": null,
+    "max3d": {
+      "id": 3623,
+      "gameType": "max3d",
+      "drawCode": "00896",
+      "drawDate": "2025-03-10T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "037",
+          "088"
+        ],
+        "first": [
+          "886",
+          "592",
+          "543",
+          "695"
+        ],
+        "second": [
+          "075",
+          "799",
+          "485",
+          "144",
+          "824",
+          "652"
+        ],
+        "third": [
+          "167",
+          "406",
+          "279",
+          "234",
+          "545",
+          "782",
+          "535",
+          "829"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special_max3d": 31,
+        "special_max3d_plus": 0,
+        "first_max3d": 97,
+        "first_max3d_plus": 1,
+        "second_max3d": 85,
+        "second_max3d_plus": 3,
+        "third_max3d": 167,
+        "third_max3d_plus": 6,
+        "fourth": 53,
+        "fifth": 675,
+        "sixth": 6438
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:47.937Z",
+      "updatedAt": "2026-02-16T08:29:47.819Z"
+    },
     "max3dpro": null,
     "lotto535": null
   }

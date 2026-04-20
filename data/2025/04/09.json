@@ -1,6 +1,6 @@
 {
   "date": "2025-04-09",
-  "timestamp": "2026-04-13T07:08:57.262382",
+  "timestamp": "2026-04-20T06:14:17.066720",
   "xs": {
     "bac": [
       {
@@ -603,7 +603,61 @@
       "updatedAt": "2026-02-16T08:38:54.906Z"
     },
     "power655": null,
-    "max3d": null,
+    "max3d": {
+      "id": 3636,
+      "gameType": "max3d",
+      "drawCode": "00909",
+      "drawDate": "2025-04-09T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "486",
+          "397"
+        ],
+        "first": [
+          "122",
+          "598",
+          "503",
+          "632"
+        ],
+        "second": [
+          "711",
+          "524",
+          "804",
+          "948",
+          "684",
+          "693"
+        ],
+        "third": [
+          "101",
+          "790",
+          "430",
+          "272",
+          "067",
+          "865",
+          "507",
+          "112"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special_max3d": 36,
+        "special_max3d_plus": 1,
+        "first_max3d": 122,
+        "first_max3d_plus": 1,
+        "second_max3d": 59,
+        "second_max3d_plus": 4,
+        "third_max3d": 101,
+        "third_max3d_plus": 1,
+        "fourth": 50,
+        "fifth": 545,
+        "sixth": 4005
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:47.966Z",
+      "updatedAt": "2026-02-16T08:29:47.806Z"
+    },
     "max3dpro": null,
     "lotto535": null
   }

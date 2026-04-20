@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-20",
+  "timestamp": "2026-04-20T06:17:03.759255",
+  "xs": {
+    "bac": [],
+    "trung": [],
+    "nam": []
+  },
+  "vietlott": {
+    "mega645": null,
+    "power655": null,
+    "max3d": null,
+    "max3dpro": null,
+    "lotto535": [
+      {
+        "id": 5895,
+        "gameType": "lotto535_13h",
+        "drawCode": "591",
+        "drawDate": "2026-04-20T00:00:00.000Z",
+        "numbers": [
+          7,
+          10,
+          14,
+          16,
+          34
+        ],
+        "specialNum": "01",
+        "jackpot1": "6713695000",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 4,
+          "third": 82,
+          "fourth": 107,
+          "fifth": 1649,
+          "consolation": 7737
+        },
+        "isPublished": true,
+        "createdAt": "2026-04-20T06:01:45.378Z",
+        "updatedAt": "2026-04-20T06:03:45.982Z"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T13:20:13.344566",
+  "timestamp": "2026-04-20T06:16:59.473878",
   "xs": {
     "bac": [
       {
@@ -662,6 +662,34 @@
         "isPublished": true,
         "createdAt": "2026-04-13T06:03:22.166Z",
         "updatedAt": "2026-04-13T06:03:22.166Z"
+      },
+      {
+        "id": 5871,
+        "gameType": "lotto535_21h",
+        "drawCode": "578",
+        "drawDate": "2026-04-13T00:00:00.000Z",
+        "numbers": [
+          10,
+          11,
+          12,
+          18,
+          34
+        ],
+        "specialNum": "03",
+        "jackpot1": "9549834500",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 0,
+          "second": 5,
+          "third": 88,
+          "fourth": 244,
+          "fifth": 2730,
+          "consolation": 19190
+        },
+        "isPublished": true,
+        "createdAt": "2026-04-13T14:00:43.060Z",
+        "updatedAt": "2026-04-13T14:03:55.351Z"
       }
     ]
   }

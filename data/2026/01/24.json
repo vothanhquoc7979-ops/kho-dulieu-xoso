@@ -1,6 +1,6 @@
 {
   "date": "2026-01-24",
-  "timestamp": "2026-04-13T07:17:24.951871",
+  "timestamp": "2026-04-20T06:16:24.358701",
   "xs": {
     "bac": [
       {
@@ -793,7 +793,62 @@
       "updatedAt": "2026-02-16T08:37:58.669Z"
     },
     "max3d": null,
-    "max3dpro": null,
+    "max3dpro": {
+      "id": 3884,
+      "gameType": "max3dpro",
+      "drawCode": "00680",
+      "drawDate": "2026-01-24T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "746",
+          "888"
+        ],
+        "special_sub": [
+          "888",
+          "746"
+        ],
+        "first": [
+          "209",
+          "104",
+          "313",
+          "142"
+        ],
+        "second": [
+          "440",
+          "551",
+          "347",
+          "726",
+          "220",
+          "289"
+        ],
+        "third": [
+          "699",
+          "033",
+          "191",
+          "564",
+          "233",
+          "005",
+          "643",
+          "751"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special": 0,
+        "special_sub": 0,
+        "first": 1,
+        "second": 2,
+        "third": 2,
+        "fourth": 30,
+        "fifth": 549,
+        "sixth": 4656
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-12T13:30:28.597Z",
+      "updatedAt": "2026-02-12T13:30:28.597Z"
+    },
     "lotto535": [
       {
         "id": 3947,

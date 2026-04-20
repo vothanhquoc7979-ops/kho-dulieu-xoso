@@ -1,6 +1,6 @@
 {
   "date": "2025-11-04",
-  "timestamp": "2026-04-13T07:15:08.370333",
+  "timestamp": "2026-04-20T06:15:49.214598",
   "xs": {
     "bac": [
       {
@@ -661,6 +661,35 @@
       "createdAt": "2026-02-16T08:38:10.004Z",
       "updatedAt": "2026-02-16T08:38:10.004Z"
     },
-    "lotto535": null
+    "lotto535": [
+      {
+        "id": 4096,
+        "gameType": "lotto535_21h",
+        "drawCode": "00258",
+        "drawDate": "2025-11-04T00:00:00.000Z",
+        "numbers": [
+          7,
+          20,
+          28,
+          29,
+          31
+        ],
+        "specialNum": "06",
+        "jackpot1": "8966217500",
+        "jackpot2": null,
+        "winnersData": {
+          "jackpot": 0,
+          "first": 1,
+          "second": 4,
+          "third": 80,
+          "fourth": 228,
+          "fifth": 2328,
+          "consolation": 18656
+        },
+        "isPublished": true,
+        "createdAt": "2026-02-12T17:14:58.662Z",
+        "updatedAt": "2026-02-12T17:14:58.662Z"
+      }
+    ]
   }
 }
