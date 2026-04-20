@@ -1,6 +1,6 @@
 {
   "date": "2022-09-04",
-  "timestamp": "2026-04-13T07:51:32.212469",
+  "timestamp": "2026-04-20T06:07:10.681079",
   "xs": {
     "bac": [
       {
@@ -670,7 +670,32 @@
     ]
   },
   "vietlott": {
-    "mega645": null,
+    "mega645": {
+      "id": 936,
+      "gameType": "mega645",
+      "drawCode": "00936",
+      "drawDate": "2022-09-04T00:00:00.000Z",
+      "numbers": [
+        5,
+        17,
+        19,
+        27,
+        35,
+        39
+      ],
+      "specialNum": null,
+      "jackpot1": "22380171500",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 0,
+        "first": 37,
+        "second": 1294,
+        "third": 19436
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:42.631Z",
+      "updatedAt": "2026-02-16T08:38:54.530Z"
+    },
     "power655": null,
     "max3d": null,
     "max3dpro": null,
