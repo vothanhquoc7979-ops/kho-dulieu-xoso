@@ -1,6 +1,6 @@
 {
   "date": "2011-12-25",
-  "timestamp": "2026-04-13T08:54:22.865489",
+  "timestamp": "2026-04-20T05:38:03.838426",
   "xs": {
     "bac": [
       {
@@ -100,7 +100,196 @@
         ]
       }
     ],
-    "trung": [],
+    "trung": [
+      {
+        "id": 13882,
+        "region": "trung",
+        "province": "Kon Tum",
+        "drawDate": "2011-12-25T00:00:00.000Z",
+        "dayOfWeek": "Chủ nhật",
+        "maDB": "XSKT",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:43:20.054Z",
+        "updatedAt": "2026-02-15T01:30:45.280Z",
+        "prizes": [
+          {
+            "id": 122669,
+            "drawId": 13882,
+            "prizeKey": "DB",
+            "numbers": [
+              "47641"
+            ]
+          },
+          {
+            "id": 122670,
+            "drawId": 13882,
+            "prizeKey": "G1",
+            "numbers": [
+              "76156"
+            ]
+          },
+          {
+            "id": 122671,
+            "drawId": 13882,
+            "prizeKey": "G2",
+            "numbers": [
+              "41846"
+            ]
+          },
+          {
+            "id": 122672,
+            "drawId": 13882,
+            "prizeKey": "G3",
+            "numbers": [
+              "24208",
+              "45999"
+            ]
+          },
+          {
+            "id": 122673,
+            "drawId": 13882,
+            "prizeKey": "G4",
+            "numbers": [
+              "75668",
+              "24588",
+              "47105",
+              "15197",
+              "89074",
+              "02303",
+              "45722"
+            ]
+          },
+          {
+            "id": 122674,
+            "drawId": 13882,
+            "prizeKey": "G5",
+            "numbers": [
+              "1197"
+            ]
+          },
+          {
+            "id": 122675,
+            "drawId": 13882,
+            "prizeKey": "G6",
+            "numbers": [
+              "9740",
+              "2939",
+              "4657"
+            ]
+          },
+          {
+            "id": 122676,
+            "drawId": 13882,
+            "prizeKey": "G7",
+            "numbers": [
+              "226"
+            ]
+          },
+          {
+            "id": 122677,
+            "drawId": 13882,
+            "prizeKey": "G8",
+            "numbers": [
+              "50"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13883,
+        "region": "trung",
+        "province": "Khánh Hòa",
+        "drawDate": "2011-12-25T00:00:00.000Z",
+        "dayOfWeek": "Chủ nhật",
+        "maDB": "XSKH",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:43:20.057Z",
+        "updatedAt": "2026-02-15T01:30:45.031Z",
+        "prizes": [
+          {
+            "id": 122678,
+            "drawId": 13883,
+            "prizeKey": "DB",
+            "numbers": [
+              "97722"
+            ]
+          },
+          {
+            "id": 122679,
+            "drawId": 13883,
+            "prizeKey": "G1",
+            "numbers": [
+              "05001"
+            ]
+          },
+          {
+            "id": 122680,
+            "drawId": 13883,
+            "prizeKey": "G2",
+            "numbers": [
+              "12013"
+            ]
+          },
+          {
+            "id": 122681,
+            "drawId": 13883,
+            "prizeKey": "G3",
+            "numbers": [
+              "17491",
+              "76943"
+            ]
+          },
+          {
+            "id": 122682,
+            "drawId": 13883,
+            "prizeKey": "G4",
+            "numbers": [
+              "96920",
+              "07926",
+              "44656",
+              "76884",
+              "39760",
+              "01572",
+              "78493"
+            ]
+          },
+          {
+            "id": 122683,
+            "drawId": 13883,
+            "prizeKey": "G5",
+            "numbers": [
+              "3655"
+            ]
+          },
+          {
+            "id": 122684,
+            "drawId": 13883,
+            "prizeKey": "G6",
+            "numbers": [
+              "3340",
+              "2335",
+              "0990"
+            ]
+          },
+          {
+            "id": 122685,
+            "drawId": 13883,
+            "prizeKey": "G7",
+            "numbers": [
+              "197"
+            ]
+          },
+          {
+            "id": 122686,
+            "drawId": 13883,
+            "prizeKey": "G8",
+            "numbers": [
+              "15"
+            ]
+          }
+        ]
+      }
+    ],
     "nam": [
       {
         "id": 13879,
