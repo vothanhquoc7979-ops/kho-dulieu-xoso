@@ -1,6 +1,6 @@
 {
   "date": "2022-01-18",
-  "timestamp": "2026-04-13T07:45:07.556695",
+  "timestamp": "2026-04-20T06:05:29.316063",
   "xs": {
     "bac": [
       {
@@ -605,7 +605,62 @@
       "updatedAt": "2026-02-16T08:38:52.995Z"
     },
     "max3d": null,
-    "max3dpro": null,
+    "max3dpro": {
+      "id": 4942,
+      "gameType": "max3dpro",
+      "drawCode": "00055",
+      "drawDate": "2022-01-18T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "895",
+          "505"
+        ],
+        "special_sub": [
+          "505",
+          "895"
+        ],
+        "first": [
+          "515",
+          "226",
+          "252",
+          "690"
+        ],
+        "second": [
+          "865",
+          "652",
+          "873",
+          "766",
+          "411",
+          "001"
+        ],
+        "third": [
+          "821",
+          "547",
+          "203",
+          "469",
+          "202",
+          "141",
+          "093",
+          "274"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special": 0,
+        "special_sub": 0,
+        "first": 2,
+        "second": 4,
+        "third": 25,
+        "fourth": 69,
+        "fifth": 403,
+        "sixth": 4880
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-16T08:19:31.307Z",
+      "updatedAt": "2026-02-16T08:19:32.327Z"
+    },
     "lotto535": null
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2021-01-15",
-  "timestamp": "2026-04-13T07:34:40.376985",
+  "timestamp": "2026-04-20T06:02:46.491742",
   "xs": {
     "bac": [
       {
@@ -576,7 +576,32 @@
     ]
   },
   "vietlott": {
-    "mega645": null,
+    "mega645": {
+      "id": 691,
+      "gameType": "mega645",
+      "drawCode": "00691",
+      "drawDate": "2021-01-15T00:00:00.000Z",
+      "numbers": [
+        4,
+        6,
+        10,
+        13,
+        26,
+        43
+      ],
+      "specialNum": null,
+      "jackpot1": "13284139000",
+      "jackpot2": null,
+      "winnersData": {
+        "jackpot": 1,
+        "first": 20,
+        "second": 891,
+        "third": 13949
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:42.137Z",
+      "updatedAt": "2026-02-16T08:38:54.294Z"
+    },
     "power655": null,
     "max3d": {
       "id": 2996,

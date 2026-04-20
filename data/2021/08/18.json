@@ -1,6 +1,6 @@
 {
   "date": "2021-08-18",
-  "timestamp": "2026-04-13T07:40:54.969695",
+  "timestamp": "2026-04-20T06:04:18.960410",
   "xs": {
     "bac": [
       {
@@ -100,7 +100,102 @@
         ]
       }
     ],
-    "trung": [],
+    "trung": [
+      {
+        "id": 36182,
+        "region": "trung",
+        "province": "Khánh Hòa",
+        "drawDate": "2021-08-18T00:00:00.000Z",
+        "dayOfWeek": "Thứ 4",
+        "maDB": "XSKH",
+        "isPublished": true,
+        "createdAt": "2026-02-11T04:44:16.880Z",
+        "updatedAt": "2026-02-15T01:30:45.031Z",
+        "prizes": [
+          {
+            "id": 319907,
+            "drawId": 36182,
+            "prizeKey": "DB",
+            "numbers": [
+              "925757"
+            ]
+          },
+          {
+            "id": 319908,
+            "drawId": 36182,
+            "prizeKey": "G1",
+            "numbers": [
+              "43424"
+            ]
+          },
+          {
+            "id": 319909,
+            "drawId": 36182,
+            "prizeKey": "G2",
+            "numbers": [
+              "79293"
+            ]
+          },
+          {
+            "id": 319910,
+            "drawId": 36182,
+            "prizeKey": "G3",
+            "numbers": [
+              "38958",
+              "42909"
+            ]
+          },
+          {
+            "id": 319911,
+            "drawId": 36182,
+            "prizeKey": "G4",
+            "numbers": [
+              "48654",
+              "84533",
+              "34591",
+              "26473",
+              "33156",
+              "28563",
+              "11316"
+            ]
+          },
+          {
+            "id": 319912,
+            "drawId": 36182,
+            "prizeKey": "G5",
+            "numbers": [
+              "0788"
+            ]
+          },
+          {
+            "id": 319913,
+            "drawId": 36182,
+            "prizeKey": "G6",
+            "numbers": [
+              "7490",
+              "7287",
+              "4886"
+            ]
+          },
+          {
+            "id": 319914,
+            "drawId": 36182,
+            "prizeKey": "G7",
+            "numbers": [
+              "859"
+            ]
+          },
+          {
+            "id": 319915,
+            "drawId": 36182,
+            "prizeKey": "G8",
+            "numbers": [
+              "31"
+            ]
+          }
+        ]
+      }
+    ],
     "nam": []
   },
   "vietlott": {

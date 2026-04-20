@@ -1,6 +1,6 @@
 {
   "date": "2022-02-22",
-  "timestamp": "2026-04-13T07:46:07.721203",
+  "timestamp": "2026-04-20T06:05:42.601332",
   "xs": {
     "bac": [
       {
@@ -577,7 +577,33 @@
   },
   "vietlott": {
     "mega645": null,
-    "power655": null,
+    "power655": {
+      "id": 2137,
+      "gameType": "power655",
+      "drawCode": "00688",
+      "drawDate": "2022-02-22T00:00:00.000Z",
+      "numbers": [
+        9,
+        16,
+        19,
+        23,
+        25,
+        39
+      ],
+      "specialNum": "4",
+      "jackpot1": "76942780500",
+      "jackpot2": "3945386250",
+      "winnersData": {
+        "jackpot1": 0,
+        "jackpot2": 1,
+        "first": 27,
+        "second": 1387,
+        "third": 26195
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-11T04:44:44.983Z",
+      "updatedAt": "2026-02-16T08:38:53.011Z"
+    },
     "max3d": null,
     "max3dpro": {
       "id": 4957,
