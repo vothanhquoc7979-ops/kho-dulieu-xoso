@@ -1,6 +1,6 @@
 {
   "date": "2023-12-26",
-  "timestamp": "2026-04-13T08:05:20.707890",
+  "timestamp": "2026-04-20T06:10:46.458973",
   "xs": {
     "bac": [
       {
@@ -605,7 +605,62 @@
       "updatedAt": "2026-02-16T08:38:53.310Z"
     },
     "max3d": null,
-    "max3dpro": null,
+    "max3dpro": {
+      "id": 5359,
+      "gameType": "max3dpro",
+      "drawCode": "00356",
+      "drawDate": "2023-12-26T00:00:00.000Z",
+      "numbers": {
+        "special": [
+          "032",
+          "961"
+        ],
+        "special_sub": [
+          "961",
+          "032"
+        ],
+        "first": [
+          "536",
+          "280",
+          "217",
+          "876"
+        ],
+        "second": [
+          "886",
+          "752",
+          "010",
+          "594",
+          "832",
+          "685"
+        ],
+        "third": [
+          "941",
+          "876",
+          "806",
+          "237",
+          "404",
+          "663",
+          "623",
+          "035"
+        ]
+      },
+      "specialNum": null,
+      "jackpot1": null,
+      "jackpot2": null,
+      "winnersData": {
+        "special": 0,
+        "special_sub": 0,
+        "first": 5,
+        "second": 4,
+        "third": 2,
+        "fourth": 47,
+        "fifth": 490,
+        "sixth": 5247
+      },
+      "isPublished": true,
+      "createdAt": "2026-02-16T08:28:56.265Z",
+      "updatedAt": "2026-02-16T08:28:56.265Z"
+    },
     "lotto535": null
   }
 }
